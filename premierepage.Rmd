@@ -1,5 +1,5 @@
 ---
-title: "ContenuElise1"
+title: "Julien expérimente avec R-Studio et Git"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -14,7 +14,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Premier essai
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -33,3 +33,8 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+##Seconde essai##
+
+Je modifie le fichier R-Markdown pour voir si c'est facile d'avoir la mise à jour en ligne. 
+Dois-je créer une nouvelle branche pour mettre à jour les fichiers HTML sur mon compte gitHub. Je crois que oui. Pas sûr.
